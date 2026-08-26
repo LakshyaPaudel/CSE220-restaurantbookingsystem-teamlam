@@ -1,0 +1,5 @@
+~$*.docx
+~$*.xlsx
+.DS_Store
+Thumbs.db
+*.tmp
